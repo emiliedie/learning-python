@@ -103,6 +103,7 @@ def add (a,b):
     c=a+b
     return c
 
+
 print(add(563,7859))
 
 
@@ -113,9 +114,32 @@ def geteilt(a,b):
 print(geteilt(3643,6))
 
 
+def add(a,b):
+    c=a+b
+    return c
+
+print(add(564,668))
 
 
+def add (a,b):
+    c=a+b
+    return c
 
+print(add (574,68 ))
+
+
+def add(a,b):
+    c=a+b
+    return c
+
+print(add (565,89))
+
+
+def geteilt(a,b):
+    c=81/9
+    return c
+
+print(geteilt(81,9))
 
 
 
